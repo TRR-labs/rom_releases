@@ -1,0 +1,9 @@
+### lineage-21.0-Ext-Community-redwood-Gapps | Poco X5 Pro 5G redwood
+
+Update 23/11/2024
+• 5.4.242-AtomX[KernelSU]
+• Updated Blob to letest one
+• Mi cam (of you face any problem with cam then flash universal cam) & Dolby Included
+• Xiaomi Colours Added
+• Xiaomi Fetures config Added
+• Many More Chack It out
