@@ -1,10 +1,14 @@
 ### lineage-21.0-Ext-Community-redwood-Gapps | Poco X5 Pro 5G redwood
 
 Update 23/11/2024
-• 5.4.242-AtomX[KernelSU] | Also Turbo Kernel For FTS
+• 5.4.242-AtomX[KernelSU]
+• TURBO Build With FTS Support
+• Gapps & Vanilla Build Avilable
 • Updated Blob to letest one
 • Mi cam (of you face any problem with cam then flash universal cam) & Dolby Included
 • Xiaomi Colours Added
 • Xiaomi Fetures config Added
 • Yes It's Support Custom Kernel Flashing 
 • Many More Chack It out
+
+💵 If You Like My Work Consider To donate me(DM me if you went to donate)[Thereache](https://telegram.me/Rushitz)
