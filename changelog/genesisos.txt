@@ -1,0 +1,23 @@
+|=========================================|
+|Genesis os - 4.0 Verve (unofficial build)|
+|    Poco X5 Pro 5G (redwood,redwoodin)   |
+|                Android -15              |
+|=========================================|
+
+# 30/11/2024 update
+
+- Update blobs to V816.0.8.0.UMSMIXM
+- min/peak refreshrate settings option added
+- Xiaomi parts Added (per app refresh rate, thermal profile)
+- StatusBar Padding issue fixed
+- Fingerprint Overlay issue Fixed
+- So Much kernel Side Optimization
+- Yes it's Support FTS Panel too
+- NFC Fixed
+- Notch bar Killer Overlay Added
+- KernelSU version: 11872
+- Hyperos Camera included 
+- Dolby Atmos included 
+- Build is signed
+
+💵 If You Like My Work Consider To donate me(DM me if you went to donate)[Thereache](https://telegram.me/Rushitz)
